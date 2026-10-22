@@ -1,0 +1,10 @@
+{
+  "mode": "saved_output_audit_not_retraining",
+  "coherence_c_v": {
+    "LDA": 0.5128780916467791,
+    "LSA": 0.419376882210586,
+    "HDP": 0.7427832503363554
+  },
+  "unseeded_sample_present": true,
+  "dataset_bundled": false
+}
